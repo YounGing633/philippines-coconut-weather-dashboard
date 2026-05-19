@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "run_id": "20260515",
+    "effective_date": "2026-05-15",
+    "requested_end_date": "2026-05-19",
+    "main_window": 30,
+    "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
+  },
+  "official": [
+    {
+      "published_date": "2026-06-01",
+      "title": "Simplified",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/simplified_seasonal_jan-jun2026.pdf",
+      "english_core_text": "some areas in western Luzon April to June 2026 Outlook TEMPERATURE SEASONAL CLIMATE OUTLOOK Surface air temperatures in most parts of the country are forecast to be near or above average, with the exception of Coron, Romblon, and Bohol, which will have below-average temperatures. RAINFALL CONDITION Most parts of the country some areas of the Ilocos region and the western portions of Central Luzon and CALABARZON Issued: 28 January 2026 WEATHER SYSTEMS THAT MAY AFFECT THE COUNTRY Transition from La Niña to ENSO-neutral conditions is anticipated during the season. probabilistic forecast favors near- to above-normal rainfall conditions in most parts of the country Climate models predict that the current La Niña will continue until the January-February-March (JFM) season in 2026, after which a return to ENSO-neutral conditions is likely.",
+      "中文核心观点": "文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
+    {
+      "published_date": "2026-06-01",
+      "title": "Seasonal Climate Outlook",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal Outlook_Jan-June 2026_OS.pdf",
+      "english_core_text": "The rainfall forecast for the JFM season is predicted to be near- to above-normal over most parts of the country, aside from below-normal rainfall conditions over some areas in western Luzon. Central, Quezon City, Metro Manila, Philippines 1100 Website: http://bagong.pagasa.dost.gov.ph Forecast rainfall for this season suggests generally near-normal conditions over most parts of the country, aside from below-normal conditions in some areas of the Ilocos region and the western portions of Central Luzon and CALABARZON. Likewise, the probabilistic forecast indicates a moderate to high chance of above- normal rainfall conditions in most areas of the country. April to June (AMJ) 2026 Outlook Transition from La Niña to ENSO-neutral conditions is anticipated during the season.",
+      "中文核心观点": "文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
+    {
+      "published_date": "2026-05-07",
+      "title": "Monthly Climate Assessment and Outlook",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/MCAO_ENAlert_05072026_OS.pdf",
+      "english_core_text": "El Niño increases the likelihood of below normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. Further, based on the said rainfall assessment, fifteen (15) provinces in Luzon experienced meteorological drought; thirty (30) provinces were under dry spells, and twenty-nine (29) provinces experienced dry conditions. This month, below normal rainfall conditions are expected over northern Luzon, western section of Central Luzon; above normal rainfall over central and eastern Visayas, and western Mindanao; and near normal rainfall over the rest of the country. Meanwhile, pockets of below normal rainfall were observed in the Cordilleras, Central Luzon, Bicol, Palawan, eastern Visayas, the Zamboanga Peninsula, Caraga, and the Davao region; while above normal rainfall in Camarines Sur.",
+      "中文核心观点": "出现 way below normal rainfall 表述，说明部分地区降雨显著低于常年，是Drought/Dry spell判断中的强信号。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
+    {
+      "published_date": "2026-04-21",
+      "title": "Dry Spell / Drought Assessment",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/04212026_Drought and Dry Spell Assessment and Outlook.pdf",
+      "english_core_text": "OVER DIFFERENT PROVINCES As of Mar 2026 (ACTUAL) Issuance: 2026-04-21 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 5 8 7 Batangas, Cagayan, Cavite, Pampanga, Zambales Apayao, Benguet, Isabela, Nueva Ecija, Nueva Vizcaya, Pangasinan, Quirino, Tarlac Abra, Ifugao, Ilocos Norte, Ilocos Sur, Kalinga, La Union, Mountain Province VISAYAS 0 0 0 None None None MINDANAO 0 0 0 None None None TOTAL 5 8 7 OVER DIFFERENT PROVINCES As of Apr 2026 (ACTUAL) Issuance: 2026-04-21 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 1 22 15 Aurora Albay, Bataan, Batangas, Bulacan, Cagayan, Camarines Norte, Camarines Sur, Catanduanes, Cavite, Laguna, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Pampanga, Quezon, Rizal, Romblon, Sorsogon, Zambales Abra, Apayao, Benguet, Ifugao, ",
+      "中文核心观点": "文件提到 21 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
+    },
+    {
+      "published_date": "",
+      "title": "Simplified Version",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/5072026_MCAO_EN_Alert.pdf",
+      "english_core_text": "(02) 8284-0800 local 4920 and 4921 MONTHLY CLIMATE ASSESSMENT AND OUTLOOK (El Niño Alert) CLIMPS-10 rev.0/15-08-2023 El Niño increases the likelihood of below normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. For the complete list of these provinces, please refer to the Drought/Dry Spell Outlook. Issued: 07 May 2026 OVERVIEW El Niño-Southern Oscillation (ENSO)-neutral conditions prevail over the tropical Pacific. For a complete list of these provinces, please refer to the Drought/Dry Spell Assessment Maps and Tables.",
+      "中文核心观点": "出现 below normal rainfall 表述，说明部分地区降雨低于常年，需要关注是否连续化。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "baseline_start": "1981-01-01",
+  "baseline_end": "2020-12-31",
+  "default_history_start": "1981-01-01",
+  "default_lookbacks": [
+    7,
+    14,
+    30,
+    90
+  ],
+  "default_forecast_days": 16,
+  "nasa_parameters": [
+    "PRECTOTCORR",
+    "T2M",
+    "T2M_MAX",
+    "T2M_MIN",
+    "RH2M",
+    "WS10M",
+    "ALLSKY_SFC_SW_DWN"
+  ],
+  "missing_values": [
+    -999,
+    -999.0,
+    -9999,
+    -9999.0
+  ],
+  "min_effective_weight_coverage": 0.7,
+  "min_location_coverage_pct": 0.75,
+  "heat_threshold_c": 35,
+  "extreme_heat_threshold_c": 38,
+  "risk_thresholds": {
+    "normal": 90,
+    "watch": 80,
+    "dry": 60,
+    "drought": 40
+  },
+  "theme_color": "#007370"
+}

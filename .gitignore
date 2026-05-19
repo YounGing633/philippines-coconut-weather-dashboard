@@ -1,0 +1,7 @@
+﻿data/history/
+data/cache/
+data/pagasa_pdfs/
+output/
+__pycache__/
+*.pyc
+*.log
