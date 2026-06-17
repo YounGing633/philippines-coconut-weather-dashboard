@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "run_id": "20260613",
-    "effective_date": "2026-06-13",
-    "requested_end_date": "2026-06-16",
+    "run_id": "20260614",
+    "effective_date": "2026-06-14",
+    "requested_end_date": "2026-06-17",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
@@ -32,7 +32,7 @@
       "published_date": "2026-05-01",
       "title": "Dry Spell / Drought Assessment",
       "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/31May2026_Drought and Dry Spell Assessment.pdf",
-      "english_core_text": "OVER DIFFERENT PROVINCES As of May 2026 (ACTUAL) Issuance: 2026-06-02 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 20 19 None Aurora, Batanes, Batangas, Bulacan, Cagayan, Camarines Norte, Cavite, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Pampanga, Quezon, Rizal, Sorsogon, Tarlac, Zambales Abra, Albay, Apayao, Bataan, Benguet, Catanduanes, Ifugao, Ilocos Norte, Ilocos Sur, Isabela, Kalinga, La Union, Laguna, Mountain Province, Nueva Ecija, Nueva Vizcaya, Pangasinan, Quirino, Romblon VISAYAS 4 9 0 Bohol, Cebu, Negros Oriental, Siquijor Aklan, Antique, Biliran, Capiz, Guimaras, Iloilo, Negros Occidental, Northern Samar, Samar (Western Samar) None MINDANAO 0 0 0 None None None TOTAL 4 29 19 Issuance: 2026-06-02 AREA DRY CONDITI",
+      "english_core_text": "OVER DIFFERENT PROVINCES As of May 2026 (ACTUAL) Issuance: 2026-06-02 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 20 19 None Aurora, Batanes, Batangas, Bulacan, Cagayan, Camarines Norte, Cavite, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Pampanga, Quezon, Rizal, Sorsogon, Tarlac, Zambales Abra, Albay, Apayao, Bataan, Benguet, Catanduanes, Ifugao, Ilocos Norte, Ilocos Sur, Isabela, Kalinga, La Union, Laguna, Mountain Province, Nueva Ecija, Nueva Vizcaya, Pangasinan, Quirino, Romblon VISAYAS 4 9 0 Bohol, Cebu, Negros Oriental, Siquijor Aklan, Antique, Biliran, Capiz, Guimaras, Iloilo, Negros Occidental, Northern Samar, Samar (Western Samar) None MINDANAO 0 0 0 None None None TOTAL 4 29 19 OUTLOOK OVER DIFFERENT PROVINCES by e",
       "中文核心观点": "文件提到 02 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
     },
     {
