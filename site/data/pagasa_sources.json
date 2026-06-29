@@ -1,12 +1,19 @@
 {
   "metadata": {
-    "run_id": "20260624",
-    "effective_date": "2026-06-24",
-    "requested_end_date": "2026-06-28",
+    "run_id": "20260625",
+    "effective_date": "2026-06-25",
+    "requested_end_date": "2026-06-29",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
   "official": [
+    {
+      "published_date": "2026-06-24",
+      "title": "Dry Spell / Drought Assessment",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/DDS_Climate_Outlook_197thCF_06242026.pdf",
+      "english_core_text": "DRY CONDITION – DRY SPELL – DROUGHT OUTLOOK JULY 2026 – DECEMBER 2026 OVER DIFFERENT PROVINCES As of Jun 2026 (ACTUAL) Issuance: 2026-06-22 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 19 16 None Albay, Aurora, Bataan, Batanes, Bulacan, Camarines Norte, Camarines Sur, Catanduanes, Laguna, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Quezon, Rizal, Romblon Apayao, Batangas, Benguet, Cagayan, Cavite, Ilocos Norte, Ilocos Sur, Isabela, La Union, Nueva Ecija, Nueva Vizcaya, Pampanga, Pangasinan, Quirino, Tarlac, Zambales VISAYAS 0 12 1 None Aklan, Antique, Biliran, Bohol, Capiz, Cebu, Guimaras, Iloilo, Negros Occidental, Negros Oriental, Northern Samar, Southern Leyte Siquijor MINDANAO 0 3 0 None Davao City, Sarangani, Tawi- Tawi ",
+      "中文核心观点": "文件提到 22 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
+    },
     {
       "published_date": "2026-06-09",
       "title": "Monthly Climate Assessment and Outlook",
@@ -27,13 +34,6 @@
       "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal Outlook_Jan-June 2026_OS.pdf",
       "english_core_text": "The rainfall forecast for the JFM season is predicted to be near- to above-normal over most parts of the country, aside from below-normal rainfall conditions over some areas in western Luzon. Central, Quezon City, Metro Manila, Philippines 1100 Website: http://bagong.pagasa.dost.gov.ph Forecast rainfall for this season suggests generally near-normal conditions over most parts of the country, aside from below-normal conditions in some areas of the Ilocos region and the western portions of Central Luzon and CALABARZON. Likewise, the probabilistic forecast indicates a moderate to high chance of above- normal rainfall conditions in most areas of the country. April to June (AMJ) 2026 Outlook Transition from La Niña to ENSO-neutral conditions is anticipated during the season.",
       "中文核心观点": "文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
-    },
-    {
-      "published_date": "2026-05-01",
-      "title": "Dry Spell / Drought Assessment",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/31May2026_Drought and Dry Spell Assessment.pdf",
-      "english_core_text": "OVER DIFFERENT PROVINCES As of May 2026 (ACTUAL) Issuance: 2026-06-02 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 20 19 None Aurora, Batanes, Batangas, Bulacan, Cagayan, Camarines Norte, Cavite, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Pampanga, Quezon, Rizal, Sorsogon, Tarlac, Zambales Abra, Albay, Apayao, Bataan, Benguet, Catanduanes, Ifugao, Ilocos Norte, Ilocos Sur, Isabela, Kalinga, La Union, Laguna, Mountain Province, Nueva Ecija, Nueva Vizcaya, Pangasinan, Quirino, Romblon VISAYAS 4 9 0 Bohol, Cebu, Negros Oriental, Siquijor Aklan, Antique, Biliran, Capiz, Guimaras, Iloilo, Negros Occidental, Northern Samar, Samar (Western Samar) None MINDANAO 0 0 0 None None None TOTAL 4 29 19 OUTLOOK OVER DIFFERENT PROVINCES by e",
-      "中文核心观点": "文件提到 02 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
     },
     {
       "published_date": "",
