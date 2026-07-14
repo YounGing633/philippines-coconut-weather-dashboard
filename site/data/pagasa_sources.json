@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "run_id": "20260709",
-    "effective_date": "2026-07-09",
-    "requested_end_date": "2026-07-13",
+    "run_id": "20260710",
+    "effective_date": "2026-07-10",
+    "requested_end_date": "2026-07-14",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
@@ -13,13 +13,6 @@
       "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/DDS_Climate_Outlook_197thCF_06242026.pdf",
       "english_core_text": "DRY CONDITION – DRY SPELL – DROUGHT OUTLOOK JULY 2026 – DECEMBER 2026 OVER DIFFERENT PROVINCES As of Jun 2026 (ACTUAL) Issuance: 2026-06-22 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 19 16 None Albay, Aurora, Bataan, Batanes, Bulacan, Camarines Norte, Camarines Sur, Catanduanes, Laguna, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Quezon, Rizal, Romblon Apayao, Batangas, Benguet, Cagayan, Cavite, Ilocos Norte, Ilocos Sur, Isabela, La Union, Nueva Ecija, Nueva Vizcaya, Pampanga, Pangasinan, Quirino, Tarlac, Zambales VISAYAS 0 12 1 None Aklan, Antique, Biliran, Bohol, Capiz, Cebu, Guimaras, Iloilo, Negros Occidental, Negros Oriental, Northern Samar, Southern Leyte Siquijor MINDANAO 0 3 0 None Davao City, Sarangani, Tawi- Tawi ",
       "中文核心观点": "文件提到 22 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
-    },
-    {
-      "published_date": "2026-06-09",
-      "title": "Monthly Climate Assessment and Outlook",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/ENSO Advisory1_EN_06092026_OS.pdf",
-      "english_core_text": "El Niño increases the likelihood of below-normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. Further, based on the said rainfall assessment, nineteen (19) provinces experienced meteorological drought; twenty-nine (29) provinces were under dry spells, and four (4) provinces experienced dry conditions. The ranges of forecast temperature are as follows: 14.6°C – 28.7°C in the mountainous areas of Luzon, 20.2°C – 40.4°C over the rest of Luzon, 21.0°C – 37.8°C in Visayas, 15.4°C – 33.4°C in the mountainous areas of Mindanao, 20.4°C – 38.3°C over the rest of Mindanao, and 23.1°C – 38.0°C for Metro Manila. The rainfall assessment for the month showed that below-to-way-below-normal rainfall conditions were experienced across Luzon and most parts of Visayas, except in the provinces of Bohol, Eastern Samar, Leyte and Southern Leyte, which received near- normal rainfall.",
-      "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
       "published_date": "2026-06-01",
@@ -38,8 +31,15 @@
     {
       "published_date": "",
       "title": "Simplified Version",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/6092026_EN_Advisory.pdf",
-      "english_core_text": "Mindanao Bohol, Eastern Samar, Leyte, and Southern Leyte Luzon and most parts of Visayas Further, based on the said rainfall assessment, nineteen (19) provinces experienced meteorological drought; twenty-nine (29) provinces were under dry spells, and four (4) provinces experienced dry conditions. 1 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. For a complete list of these provinces, please refer to the Drought/Dry Spell Assessment Maps and Tables. Issued: 09 June 2026 OVERVIEW Recent atmospheric and oceanic conditions indicate the development of El Niño in the tropical Pacific.",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/7062026_EN_Advisory_2.pdf",
+      "english_core_text": "2 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below- normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. Most areas of the country Camarines Norte, Siquijor, Surigao del Sur, and Basilan Palawan and Davao region Further, based on the said rainfall assessment, ten (10) provinces experienced meteorological drought; twenty-one (21) provinces were under dry spells, and one (1) province experienced dry conditions. (02) 8284-0800 local 4920 and 4921 Western and Eastern Mindanao CLIMPS-09 rev.0/15-08-2023 ENSO ADVISORY El Niño Advisory no. (02) 8284-0800 local 4920 and 4921 ENSO ADVISORY El Niño Advisory no.",
+      "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
+    {
+      "published_date": "",
+      "title": "Monthly Climate Assessment and Outlook",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/ENSO Advisory2 OS.pdf",
+      "english_core_text": "El Niño increases the likelihood of below-normal rainfall conditions, which may result in adverse impacts such as dry spells and droughts in some areas of the country. Further, based on the said rainfall assessment, ten (10) provinces experienced meteorological drought; twenty-one (21) provinces were under dry spells, and one (1) province experienced dry conditions. Central, Quezon City, Metro Manila, Philippines 1100 Website: http://www.pagasa.dost.gov.ph The rainfall forecast for July shows that above-normal rainfall is expected in the northern and western parts of Luzon, and below-normal rainfall are likely in western and eastern Mindanao, while near-normal conditions are expected across the rest of the country. This is supported by the probabilistic forecast, suggesting higher chances of above-normal rainfall in the northern and western parts of Luzon, while higher chances of below-normal rainfall in most parts of Mindanao.",
       "中文核心观点": "出现 below normal rainfall 表述，说明部分地区降雨低于常年，需要关注是否连续化。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     }
   ]
