@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "run_id": "20260722",
-    "effective_date": "2026-07-22",
-    "requested_end_date": "2026-07-26",
+    "run_id": "20260723",
+    "effective_date": "2026-07-23",
+    "requested_end_date": "2026-07-27",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
   "official": [
+    {
+      "published_date": "2026-12-01",
+      "title": "Simplified",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/simplified_seasonal_jul-dec2026.pdf",
+      "english_core_text": "Moderate to high probability (>50%) expected across parts of western Northern Luzon, extending into Central Luzon Higher chances of moderate to strong El Niño. RAINFALL CONDITION across the country higher probability over most parts of the country WEATHER SYSTEMS THAT MAY AFFECT THE COUNTRY The ongoing El Niño has high chance of becoming very strong during this season. (02) 8284-0800 local 4920 and 4921 Issued: 08 July 2026 SEASONAL CLIMATE OUTLOOK western of Luzon Issued: 08 July 2026 OVERVIEW The unusual warming of sea surface temperatures across the equatorial Pacific, which began in March 2026, has further developed into El Niño.",
+      "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
+    {
+      "published_date": "2026-12-01",
+      "title": "Seasonal Climate Outlook",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal Outlook_Jul-Dec 2026_OS.pdf",
+      "english_core_text": "However, the probabilistic forecast suggests a moderate to high probability of above-normal rainfall in most areas of western and northern Luzon, while a moderate probability of below normal is expected over most parts of the Visayas and northern Mindanao. El Niño increases the likelihood of below-normal rainfall conditions , which may lead to dry spells and droughts in some parts of the country. The SW monsoon is expected to persist during this period, bringing widespread and heavy rainfall to the western sections of Luzon and the Visayas. The rainfall forecast indicates generally near-normal rainfall conditions over most parts of the country, with above-normal rainfall expected in some areas of western Northern Luzon.",
+      "中文核心观点": "出现 below normal rainfall 表述，说明部分地区降雨低于常年，需要关注是否连续化。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+    },
     {
       "published_date": "2026-06-24",
       "title": "Dry Spell / Drought Assessment",
       "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/DDS_Climate_Outlook_197thCF_06242026.pdf",
       "english_core_text": "DRY CONDITION – DRY SPELL – DROUGHT OUTLOOK JULY 2026 – DECEMBER 2026 OVER DIFFERENT PROVINCES As of Jun 2026 (ACTUAL) Issuance: 2026-06-22 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 19 16 None Albay, Aurora, Bataan, Batanes, Bulacan, Camarines Norte, Camarines Sur, Catanduanes, Laguna, Marinduque, Masbate, Metropolitan Manila, Occidental Mindoro, Oriental Mindoro, Palawan, Palawan (Kalayaan), Quezon, Rizal, Romblon Apayao, Batangas, Benguet, Cagayan, Cavite, Ilocos Norte, Ilocos Sur, Isabela, La Union, Nueva Ecija, Nueva Vizcaya, Pampanga, Pangasinan, Quirino, Tarlac, Zambales VISAYAS 0 12 1 None Aklan, Antique, Biliran, Bohol, Capiz, Cebu, Guimaras, Iloilo, Negros Occidental, Negros Oriental, Northern Samar, Southern Leyte Siquijor MINDANAO 0 3 0 None Davao City, Sarangani, Tawi- Tawi ",
       "中文核心观点": "文件提到 22 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
-    },
-    {
-      "published_date": "2026-06-01",
-      "title": "Simplified",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/simplified_seasonal_jan-jun2026.pdf",
-      "english_core_text": "some areas in western Luzon April to June 2026 Outlook TEMPERATURE SEASONAL CLIMATE OUTLOOK Surface air temperatures in most parts of the country are forecast to be near or above average, with the exception of Coron, Romblon, and Bohol, which will have below-average temperatures. RAINFALL CONDITION Most parts of the country some areas of the Ilocos region and the western portions of Central Luzon and CALABARZON Issued: 28 January 2026 WEATHER SYSTEMS THAT MAY AFFECT THE COUNTRY Transition from La Niña to ENSO-neutral conditions is anticipated during the season. probabilistic forecast favors near- to above-normal rainfall conditions in most parts of the country Climate models predict that the current La Niña will continue until the January-February-March (JFM) season in 2026, after which a return to ENSO-neutral conditions is likely.",
-      "中文核心观点": "文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
-    },
-    {
-      "published_date": "2026-06-01",
-      "title": "Seasonal Climate Outlook",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/seasonalclimateoutlook/Seasonal Outlook_Jan-June 2026_OS.pdf",
-      "english_core_text": "The rainfall forecast for the JFM season is predicted to be near- to above-normal over most parts of the country, aside from below-normal rainfall conditions over some areas in western Luzon. Central, Quezon City, Metro Manila, Philippines 1100 Website: http://bagong.pagasa.dost.gov.ph Forecast rainfall for this season suggests generally near-normal conditions over most parts of the country, aside from below-normal conditions in some areas of the Ilocos region and the western portions of Central Luzon and CALABARZON. Likewise, the probabilistic forecast indicates a moderate to high chance of above- normal rainfall conditions in most areas of the country. April to June (AMJ) 2026 Outlook Transition from La Niña to ENSO-neutral conditions is anticipated during the season.",
-      "中文核心观点": "文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
       "published_date": "",
