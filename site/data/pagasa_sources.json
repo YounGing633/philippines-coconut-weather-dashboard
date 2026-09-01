@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "run_id": "20260828",
-    "effective_date": "2026-08-28",
-    "requested_end_date": "2026-08-31",
+    "run_id": "20260829",
+    "effective_date": "2026-08-29",
+    "requested_end_date": "2026-09-01",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
