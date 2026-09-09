@@ -2,7 +2,7 @@
   "metadata": {
     "run_id": "20260830",
     "effective_date": "2026-08-30",
-    "requested_end_date": "2026-09-08",
+    "requested_end_date": "2026-09-09",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
@@ -22,18 +22,18 @@
       "中文核心观点": "出现 below normal rainfall 表述，说明部分地区降雨低于常年，需要关注是否连续化。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
-      "published_date": "2026-08-06",
+      "published_date": "",
       "title": "Simplified Version",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/08062026_EN_Advisory_3.pdf",
-      "english_core_text": "Most areas of the country Apayao, Cagayan, Bohol, northern parts of Negros Provinces, and most of Mindanao In addition, nineteen (19) provinces experienced meteorological drought, most of which were in Luzon; two (2) provinces were under dry spells, and three (3) provinces experienced dry conditions. 3 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below- normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. (02) 8284-0800 local 4920 and 4921 ENSO ADVISORY El Niño Advisory no. (02) 8284-0800 local 4920 and 4921 CLIMPS-09 rev.0/15-08-2023 ENSO ADVISORY El Niño Advisory no.",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/9082026_EN_Advisory_4.pdf",
+      "english_core_text": "The rest of Visayas and Most areas in Mindanao Most areas in Luzon and western Visayas In addition, seven (7) provinces experienced meteorological drought, most of which were in Bicol Region and Visayas; four (4) provinces were under dry spell, and one (1) province experienced dry condition. 4 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below- normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. Forecasts indicate that El Niño will continue until the first half of 2027 and may reach a very strong state in the coming months before peaking towards the end of 2026. (02) 8284-0800 local 4920 and 4921 ENSO ADVISORY El Niño Advisory no.",
       "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
       "published_date": "",
       "title": "Monthly Climate Assessment and Outlook",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/ENSO Advisory3_OS.pdf",
-      "english_core_text": "Based on observed rainfall during the past months and the forecast for August, meteorological drought/dry spells are likely to be experienced by the end of the month in some areas of Bicol Region, Eastern Visayas, and Negros Island Region. El Niño increases the likelihood of below-normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. In addition, nineteen (19) provinces experienced meteorological drought, most of which were in Luzon; two (2) provinces were under dry spells, and three (3) provinces experienced dry conditions. The rainfall forecast for August suggests that above-normal rainfall conditions will be experienced over the western parts of Northern and Central Luzon, and patches of below- normal rainfall are likely over the Bicol Region, Visayas, Caraga, and Zamboanga Peninsula, while near-normal conditions are expected over the rest of the country.",
-      "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/ENSO Advisory#4_OS.pdf",
+      "english_core_text": "",
+      "中文核心观点": "未能提取到PDF正文；请打开源文件核对受影响省份、降雨展望和干旱评估。"
     },
     {
       "published_date": "",
