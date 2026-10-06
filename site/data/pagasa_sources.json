@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "run_id": "20261002",
-    "effective_date": "2026-10-02",
-    "requested_end_date": "2026-10-05",
+    "run_id": "20261003",
+    "effective_date": "2026-10-03",
+    "requested_end_date": "2026-10-06",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
@@ -38,9 +38,9 @@
     {
       "published_date": "",
       "title": "Dry Spell / Drought Assessment",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/Drought and Dry Spell Assessment.pdf",
-      "english_core_text": "METEOROLOGICAL DRY CONDITIONS/ DRY SPELLS/DROUGHT Based on rainfall observation as of 31 August 2026 and the latest 6-month rainfall forecast OVER DIFFERENT PROVINCES As of Aug 2026 (ACTUAL) Issuance: 2026-09-03 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 1 4 None Camarines Sur Albay, Camarines Norte, Catanduanes, Quirino VISAYAS 1 2 3 Capiz Eastern Samar, Leyte Negros Oriental, Samar (Western Samar), Siquijor MINDANAO 0 1 0 None Misamis Oriental None TOTAL 1 4 7 OUTLOOK OVER DIFFERENT PROVINCES by end of Sep 2026 Issuance: 2026-09-03 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 0 0 1 None None Camarines Sur VISAYAS 0 0 0 None None None MINDANAO 3 0 0 Davao del Sur, Davao Occidental, Sarangani None None TOTAL 3 0 1 OUTLOOK OVER DIFFERENT PROVINCES by end of Oct 2026 Issuance: 2026-09-03 ARE",
-      "中文核心观点": "文件提到 03 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/dryspelldrought/Drought_and_Dry_Spell_Assessment.pdf",
+      "english_core_text": "METEOROLOGICAL DRY CONDITIONS/ DRY SPELLS/DROUGHT OUTLOOKS ⮚Based on rainfall observation as of 01 October 2026 and the latest 6-month rainfall forecast OCTOBER 2026 – MARCH 2027 OVER DIFFERENT PROVINCES As of Sep 2026 (ACTUAL) Issuance: 2026-10-01 AREA DRY CONDITION DRY SPELL DROUGHT LUZON 2 0 4 Masbate, Sorsogon None Albay, Camarines Norte, Camarines Sur, Catanduanes VISAYAS 6 2 3 Biliran, Bohol, Cebu, Negros Occidental, Northern Samar, Southern Leyte Capiz, Leyte Negros Oriental, Samar (Western Samar), Siquijor MINDANAO 22 1 0 Agusan del Norte, Basilan, Bukidnon, Camiguin, Cotabato (North Cotabato), Davao del Sur, Davao Occidental, Dinagat Islands, Lanao del Norte, Lanao del Sur, Maguindanao del Norte, Maguindanao del Sur, Misamis Occidental, Sarangani, South Cotabato, Sultan Kudarat, S",
+      "中文核心观点": "文件提到 01 个省/区域涉及 DROUGHT，需核对是否落在椰子主产区。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。"
     }
   ]
 }
