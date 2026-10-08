@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "run_id": "20261004",
-    "effective_date": "2026-10-04",
-    "requested_end_date": "2026-10-07",
+    "run_id": "20261005",
+    "effective_date": "2026-10-05",
+    "requested_end_date": "2026-10-08",
     "main_window": 30,
     "note": "Public dashboard data. Missing values and NASA POWER -999/-9999 placeholders are excluded from calculations. Production share uses PSA 2025 Coconut (w/ husk)."
   },
@@ -24,16 +24,16 @@
     {
       "published_date": "",
       "title": "Simplified Version",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/9082026_EN_Advisory_4.pdf",
-      "english_core_text": "The rest of Visayas and Most areas in Mindanao Most areas in Luzon and western Visayas In addition, seven (7) provinces experienced meteorological drought, most of which were in Bicol Region and Visayas; four (4) provinces were under dry spell, and one (1) province experienced dry condition. 4 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below- normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. Forecasts indicate that El Niño will continue until the first half of 2027 and may reach a very strong state in the coming months before peaking towards the end of 2026. (02) 8284-0800 local 4920 and 4921 ENSO ADVISORY El Niño Advisory no.",
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/Simplified_EN_Advisory_5.pdf",
+      "english_core_text": "5 CLIMPS-09 rev.0/15-08-2023 El Niño increases the likelihood of below- normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. The rest of the country Benguet, La Union, Pangasinan, Bataan, Zambales, and Cavite In addition, seven (7) provinces experienced meteorological drought; three (3) provinces were under dry spell; and thirty (30) provinces experienced dry conditions. 5 Most parts of Luzon, Visayas, and Caraga Region Batanes, Cagayan, Negros Island Region, Central Visayas, and the rest of Mindanao PASSAGE OF 1 or 2 TROPICAL CYCLONES OR BAGYO Forecasts predict that El Niño will continue until the first half of 2027 and may reach its peak before the end of 2026.",
       "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
       "published_date": "",
       "title": "Monthly Climate Assessment and Outlook",
-      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/ENSO Advisory4_OS.pdf",
-      "english_core_text": "Based on observed rainfall during the past months and the forecast for September, meteorological drought/dry spells are likely to be experienced by the end of the month in Camarines Sur, and dry condition over some areas in Southern Mindanao. This is supported by the probabilistic forecast, suggesting a high chance of below-normal rainfall in the northern part of Luzon and some areas in Southern Mindanao and near to above-normal rainfall for the rest of Luzon, Visayas, and the rest of Mindanao. El Niño increases the likelihood of below-normal rainfall, which may lead to adverse climate impacts, including dry spells and droughts in some areas of the country. The rainfall assessment for the month showed that most areas in Luzon experienced above-normal conditions except Bicol Region, and most of Western Visayas, while below to way-below normal rainfall for the rest of the country.",
-      "中文核心观点": "出现 below normal rainfall 表述，说明部分地区降雨低于常年，需要关注是否连续化。；官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
+      "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/climate/monthlyclimateassessment/EN_Advisory_5.pdf",
+      "english_core_text": "The rainfall forecast for October suggests that below-normal rainfall conditions will be experienced over most parts of Luzon, Visayas, and Caraga Region, while near-normal rainfall conditions are likely over Batanes, Cagayan, Negros Island Region, Central Visayas, and the rest of Mindanao. Central, Quezon City, Metro Manila, Philippines 1100 Website: http://www.pagasa.dost.gov.ph Based on observed rainfall during the past months and the forecast for October, meteorological drought/dry spells are likely to be experienced by the end of the month in most parts of Bicol Region, Eastern Visayas, Surigao del Norte and Dinagat Islands. El Niño increases the likelihood of below-normal rainfall, which may lead to adverse impacts, including dry spells and droughts in some areas of the country. The ranges of forecast temperature are as follows: 13.1°C – 26.7°C in the mountainous areas of Luzon, 21.1°C – 36.0°C for Metro Manila, 17.0°C – 37.2°C over the rest of Luzon, 21.2°C – 36.5°C in Visayas, ",
+      "中文核心观点": "官方文件涉及 dry condition / dry spell / drought，请优先核对省份名单与椰子产区重合度。；文件包含未来气候展望，可与本看板未来7/16天预测一起判断是否缓解。；文件涉及 ENSO / El Niño 背景，可能提高未来阶段性偏干概率。"
     },
     {
       "published_date": "",
